@@ -1,19 +1,12 @@
-(* Content-type: application/vnd.wolfram.mathematica *)
-
-(*** Wolfram Notebook File ***)
-(* http://www.wolfram.com/nb *)
-
-(* CreatedBy='Mathematica 14.1' *)
-
 (*CacheID: 234*)
 (* Internal cache information:
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
-NotebookDataPosition[       158,          7]
-NotebookDataLength[     22872,        530]
-NotebookOptionsPosition[      3170,         97]
-NotebookOutlinePosition[     21998,        517]
-CellTagsIndexPosition[     21955,        514]
+NotebookDataPosition[         0,          0]
+NotebookDataLength[     23701,        551]
+NotebookOptionsPosition[      3533,        106]
+NotebookOutlinePosition[     22361,        526]
+CellTagsIndexPosition[     22318,        523]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -93,7 +86,23 @@ Cell[BoxData[
  CellLabel->
   "During evaluation of \
 In[19]:=",ExpressionUUID->"f96aab01-6be0-4575-ac08-192a419ed739"]
-}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["Pi"], "Code",
+ CellChangeTimes->{{3.947857554040757*^9, 3.947857568594104*^9}},
+ CellLabel->"In[21]:=",ExpressionUUID->"56b0e0dd-a694-4888-9247-5dc1ee588dcd"],
+
+Cell[BoxData["\[Pi]"], "Output",
+ CellChangeTimes->{3.947857570892713*^9},
+ CellLabel->"Out[21]=",ExpressionUUID->"6e93fb63-805d-49b7-afe0-ad8c0ddbe748"]
+}, Open  ]],
+
+Cell[BoxData[""], "Code",
+ CellChangeTimes->{{3.947857556127598*^9, 
+  3.9478575563510303`*^9}},ExpressionUUID->"4edab1a2-2d89-4f72-acc7-\
+6b4b78c3bd1f"]
 },
 WindowSize->{606, 683.25},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
@@ -503,7 +512,7 @@ StyleDefinitions->Notebook[{
            Open]]}, Open]]}, Open]]}, Visible -> False, FrontEndVersion -> 
   "14.1 for Linux ARM (64-bit) (August 9, 2024)", StyleDefinitions -> 
   "Default.nb"],
-ExpressionUUID->"3876f465-9835-48a0-aac2-9e75e6aa3a36"
+ExpressionUUID->"f2476878-847f-4922-89d7-afcd0117f530"
 ]
 (* End of Notebook Content *)
 
@@ -516,25 +525,28 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 154, 3, 24, "Input",ExpressionUUID->"8a946ebc-ee41-4ffe-9d35-0de608aae87f"],
-Cell[715, 25, 336, 7, 24, "Input",ExpressionUUID->"4b08c184-08e5-425b-ab0e-1ef8dd9659d9"],
-Cell[1054, 34, 154, 3, 24, "Input",ExpressionUUID->"974ed079-6d1a-41e3-a4ac-577d7a04ca84"],
+Cell[400, 13, 154, 3, 24, "Input",ExpressionUUID->"8a946ebc-ee41-4ffe-9d35-0de608aae87f"],
+Cell[557, 18, 336, 7, 24, "Input",ExpressionUUID->"4b08c184-08e5-425b-ab0e-1ef8dd9659d9"],
+Cell[896, 27, 154, 3, 24, "Input",ExpressionUUID->"974ed079-6d1a-41e3-a4ac-577d7a04ca84"],
 Cell[CellGroupData[{
-Cell[1233, 41, 218, 3, 35, "Code",ExpressionUUID->"fcac601e-e60a-4ade-86bb-e6f2c714ca85"],
-Cell[1454, 46, 192, 4, 23, "Print",ExpressionUUID->"e29fdacc-987d-44fa-8cbe-7f0fa86af754"]
+Cell[1075, 34, 218, 3, 35, "Code",ExpressionUUID->"fcac601e-e60a-4ade-86bb-e6f2c714ca85"],
+Cell[1296, 39, 192, 4, 23, "Print",ExpressionUUID->"e29fdacc-987d-44fa-8cbe-7f0fa86af754"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1683, 55, 195, 3, 34, "Code",ExpressionUUID->"43230390-2f66-444a-b91f-139429b7c492"],
-Cell[1881, 60, 173, 2, 37, "Output",ExpressionUUID->"2416e2ee-d8b3-481c-b9b2-27bf01e36424"]
+Cell[1525, 48, 195, 3, 34, "Code",ExpressionUUID->"43230390-2f66-444a-b91f-139429b7c492"],
+Cell[1723, 53, 173, 2, 37, "Output",ExpressionUUID->"2416e2ee-d8b3-481c-b9b2-27bf01e36424"]
 }, Open  ]],
-Cell[2069, 65, 598, 14, 94, "Code",ExpressionUUID->"ee80cf0a-93b4-49e1-9cfe-4fc0cac47868"],
+Cell[1911, 58, 598, 14, 94, "Code",ExpressionUUID->"ee80cf0a-93b4-49e1-9cfe-4fc0cac47868"],
 Cell[CellGroupData[{
-Cell[2692, 83, 258, 4, 34, "Code",ExpressionUUID->"beab92f3-3944-4073-b58b-524f92574ab9"],
-Cell[2953, 89, 201, 5, 23, "Print",ExpressionUUID->"f96aab01-6be0-4575-ac08-192a419ed739"]
-}, Open  ]]
+Cell[2534, 76, 258, 4, 34, "Code",ExpressionUUID->"beab92f3-3944-4073-b58b-524f92574ab9"],
+Cell[2795, 82, 201, 5, 23, "Print",ExpressionUUID->"f96aab01-6be0-4575-ac08-192a419ed739"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3033, 92, 172, 2, 34, "Code",ExpressionUUID->"56b0e0dd-a694-4888-9247-5dc1ee588dcd"],
+Cell[3208, 96, 153, 2, 37, "Output",ExpressionUUID->"6e93fb63-805d-49b7-afe0-ad8c0ddbe748"]
+}, Open  ]],
+Cell[3376, 101, 153, 3, 34, "Code",ExpressionUUID->"4edab1a2-2d89-4f72-acc7-6b4b78c3bd1f"]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
